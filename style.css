@@ -1,0 +1,31 @@
+.circle {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto; /* simplified margin settings */
+  border-radius: 50%;
+  background-color: black;
+  opacity: 0.3;
+}
+
+#mode {
+  text-align: center;
+}
+
+input {
+  height: 50px;
+  width: 120px;
+  font-size: 13px;
+  background-size: cover;
+  color: black;
+  background-color: red;
+}
+
+h3 {
+  text-align: center;
+}
+
+#icon {
+  text-align: center;
+  padding-top: 60px;
+  color: white;
+}
