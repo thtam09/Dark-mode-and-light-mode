@@ -1,2 +1,2 @@
 # Dark-mode-and-light-mode
-Make on HTML, CSS, JS
+Made in HTML, CSS, JS
